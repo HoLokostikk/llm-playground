@@ -1,0 +1,7 @@
+CLAUDE.md
+.venv/
+__pycache__/
+*.pyc
+.env
+EXPERIMENTS.md
+learn/
